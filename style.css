@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+    background: #fff;
+    position: relative;
+}
+
+.icon-large{
+    width: 220px;
+    height: 220px;
+    border-radius: 38px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
